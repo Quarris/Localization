@@ -85,7 +85,8 @@
             "corn": "Corn",
             "cotton": "Cotton",
             "yarn": "Yarn",
-            "glass": "Glass"
+            "glass": "Glass",
+            "platform": "Platform"
         },
         "info.": {
             "layer_placement": "Can be placed in %s",
